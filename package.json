@@ -1,0 +1,17 @@
+{
+  "name": "cucumber-tests",
+  "version": "1.0.0",
+  "description": "test for cucumber framework",
+  "main": "index.js",
+  "dependencies": {
+    "cucumber": "^3.0.3"
+  },
+  "devDependencies": {
+    "cucumber": "^3.0.3"
+  },
+  "scripts": {
+    "test": "cucumberjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
